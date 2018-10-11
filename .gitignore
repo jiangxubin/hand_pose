@@ -1,0 +1,16 @@
+# Python:
+__pycache__/
+
+# weights
+weights/
+snapshots
+
+# vscode
+.vscode/
+
+# jupterlab cache
+.ipynb_checkpoints/
+
+# local test dirs
+local_result/
+logs/

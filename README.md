@@ -1,8 +1,8 @@
-## Hand Pose Estimation 手部姿态估计
+﻿## Hand Pose Estimation 手部姿态估计
 
 手部姿态估计，Tensorflow代码实现，主要实现手部21关键点2D坐标回归
 
-LiangYu liangyufz@gmail.com
+
 
 ### 环境配置
 
